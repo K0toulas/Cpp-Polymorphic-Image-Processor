@@ -6,14 +6,15 @@ The project demonstrates advanced C++ concepts such as**polymorphism**, **inheri
 
 ---
 
+
 *  **CLI Commands & Operator Mapping**
   
-  * **i <filename> as <$token>**	Import and load an image from a file.
-  * **e <$token> as <filename>**	Export and save the image to a file.
-  * **d <$token>**	Delete the image from the database/memory.
-  * **n <$token>**	Apply Negative (Inversion).
-  * **z <$token>**	Apply Rotation.
-  * **m <$token>**	Apply Matching (Histogram Equalization).
+  * **`i <filename> as <$token>`**	Import and load an image from a file.
+  * **`e <$token> as <filename>`**	Export and save the image to a file.
+  * **`d <$token>`**	Delete the image from the database/memory.
+  * **`n <$token>`**	Apply Negative (Inversion).
+  * **`z <$token>`**	Apply Rotation.
+  * **`m <$token>`**	Apply Matching (Histogram Equalization).
   
   
 * **Operator Overloading:** Image transformations are implemented as overloaded virtual operators, providing a clear and intuitive syntax:
