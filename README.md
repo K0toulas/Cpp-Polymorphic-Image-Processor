@@ -29,7 +29,7 @@ The project demonstrates advanced C++ concepts such as**polymorphism**, **inheri
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/K0toulas/Cpp-Polymorphic-Image-Processor.git](https://github.com/K0toulas/Cpp-Polymorphic-Image-Processor.git)
+    git clone [https://github.com/K0toulas/Cpp-Polymorphic-Image-Processor.git]
     ```
 2.  **Navigate and Compile:** (If you are not in the working directory)
     ```bash
